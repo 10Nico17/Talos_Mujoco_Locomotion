@@ -1,1 +1,1 @@
-# Talos_Mujoco_Locomotion-
+# Talos_Mujoco_Locomotion
